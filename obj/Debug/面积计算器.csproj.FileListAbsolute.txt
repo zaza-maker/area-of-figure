@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\面积计算器\bin\Debug\面积计算器.exe.config
+C:\Users\dell\source\repos\面积计算器\bin\Debug\面积计算器.exe
+C:\Users\dell\source\repos\面积计算器\bin\Debug\面积计算器.pdb
+C:\Users\dell\source\repos\面积计算器\obj\Debug\面积计算器.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\面积计算器\obj\Debug\面积计算器.Form1.resources
+C:\Users\dell\source\repos\面积计算器\obj\Debug\面积计算器.Properties.Resources.resources
+C:\Users\dell\source\repos\面积计算器\obj\Debug\面积计算器.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\面积计算器\obj\Debug\面积计算器.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\面积计算器\obj\Debug\面积计算器.exe
+C:\Users\dell\source\repos\面积计算器\obj\Debug\面积计算器.pdb
